@@ -1,0 +1,211 @@
+[
+    {
+      "name": "La Reinita",
+      "coordinates": {
+        "latitude": 52.378711410477365, 
+        "longitude": 4.883293797906577
+      },
+      "location": {
+        "address1": "Westerstraat 116h, 1015 MN Amsterdam, Netherlands"
+      },
+      "webiste": "http://www.lareinita.nl/"
+    },
+    {
+      "name": "Almacén José",
+      "coordinates": {
+        "latitude": 50.95321613041284, 
+        "longitude": 6.9510715139243455
+      },
+      "location": {
+        "address1": "Krefelder Str. 85, 50670 Köln, Germany"
+      },
+      "webiste": "https://www.almacenjose.com/"
+    },
+    {
+      "name": "La Bodega",
+      "coordinates": {
+        "latitude": 52.54234422161902, 
+        "longitude": 13.42313760435199
+      },
+      "location": {
+        "address1": "Senefelderstraße 27, 10437 Berlin, Germany"
+      },
+      "webiste": "http://www.labodega-berlin.com/"
+    },
+    {
+      "name": "Vivi Market",
+      "coordinates": {
+        "latitude": 43.77453515981983,
+        "longitude": 11.251961113410138
+      },
+      "location": {
+        "address1": "Q7F2+PQ Florence, Metropolitan City of Florence, Italy"
+      },
+      "webiste": "https://www.vivi-market.it/"
+    },
+    {
+      "name": "La Grande Epicerie",
+      "coordinates": {
+        "latitude": 48.85056296678088, 
+        "longitude": 2.323890271126486
+      },
+      "location": {
+        "address1": "38 Rue de Sèvres, 75007 Paris, France"
+      },
+      "webiste": "https://www.lagrandeepicerie.com/"
+    },
+    {
+      "name": "Café El Sur",
+      "coordinates": {
+        "latitude": 48.84958829215893, 
+        "longitude": 2.3515781188064504
+      },
+      "location": {
+        "address1": "35 Bd Saint-Germain, 75005 Paris, France"
+      },
+      "webiste": "http://www.cafe-elsur.com/"
+    },
+    {
+      "name": "Bubbolitas",
+      "coordinates": {
+        "latitude": 48.86001467264814, 
+        "longitude": 2.3497332205771775 
+      },
+      "location": {
+        "address1": "17 R. Quincampoix, 75004 Paris, France"
+      },
+      "webiste": "http://bubbolitas.fr/"
+    },
+    {
+      "name": "La Petite Argentine",
+      "coordinates": {
+        "latitude": 49.025071171457434,
+        "longitude": 2.221123115470568
+      },
+      "location": {
+        "address1": "3 Rue Yves Dumanoir, 95150 Taverny, France"
+      },
+      "webiste": "http://lapetiteargentine.com/"
+    },  
+    {
+      "name": "Melly's Cookies Bar",
+      "coordinates": {
+        "latitude": 52.37411034439315, 
+        "longitude": 4.891246876821304
+      },
+      "location": {
+        "address1": "Nieuwezijds Voorburgwal 137, 1012 RJ Amsterdam, Netherlands"
+      },
+      "webiste": "http://www.mellyscookiebar.nl/"
+    },  
+    {
+      "name": "Baires Empanadas & Pastelería",
+      "coordinates": {
+        "latitude": 52.36904606368965, 
+        "longitude": 4.86982495346858
+      },
+      "location": {
+        "address1": "Bilderdijkkade 25, 1053 VB Amsterdam, Netherlands"
+      },
+      "webiste": "https://www.bairesempanadas.com/"
+    },  
+    {
+      "name": "Casa Mexico",
+      "coordinates": {
+        "latitude": 48.202757412229246, 
+        "longitude": 16.354947621931647
+      },
+      "location": {
+        "address1": "Siebensterngasse 16A, 1070 Wien, Austria"
+      },
+      "webiste": "https://www.casamexico.at/"
+    },
+    {
+      "name": "South American Shop",
+      "coordinates": {
+        "latitude": 53.34582168675193, 
+        "longitude": -6.262924986591561
+      },
+      "location": {
+        "address1": "2-3, Merchant's Arch, Temple Bar, Dublin 2, D02 TD39, Ireland"
+      },
+      "webiste": "http://www.southamericanshop.com/"
+    },
+    {
+      "name": "Dobre Ziele",
+      "coordinates": {
+        "latitude": 50.068654004286515, 
+        "longitude": 19.929945639205485
+      },
+      "location": {
+        "address1": "Kremerowska 9, 31-130 Kraków, Poland"
+      },
+      "webiste": "https://dobreziele.pl/"
+    },
+    {
+      "name": "Szép Kis",
+      "coordinates": {
+        "latitude": 47.49928381337307, 
+        "longitude": 19.06640676377644
+      },
+      "location": {
+        "address1": "Budapest, Wesselényi utca 36, 1072 Hungary"
+      },
+      "webiste": "https://www.exoticindias.com/"
+    },
+    {
+      "name": "Natural Market",
+      "coordinates": {
+        "latitude": 37.95886265214426, 
+        "longitude": 23.725737529370548
+      },
+      "location": {
+        "address1": "Kassomouli 21, Athina 117 44, Greece"
+      },
+      "webiste": "http://www.arabicmarket.gr/"
+    },
+    {
+      "name": "Chaparral Supermarket",
+      "coordinates": {
+        "latitude": 37.3461062998342, 
+        "longitude": -121.87046287924383
+      },
+      "location": {
+        "address1": "1001 E Santa Clara St, San Jose, CA 95116, United States"
+      },
+      "webiste": "http://www.chaparralsupermarket.com/"
+    },
+    {
+      "name": "Mi Tierra Foods",
+      "coordinates": {
+        "latitude": 37.868014651873274, 
+        "longitude": -122.29205681411001
+      },
+      "location": {
+        "address1": "2082 San Pablo Ave, Berkeley, CA 94702, United States"
+      },
+      "webiste": "https://mitierra-foods.com/"
+    },
+    {
+      "name": "Fiesta Latina",
+      "coordinates": {
+        "latitude": 37.93710721722985, 
+        "longitude": -122.35754871192934
+      },
+      "location": {
+        "address1": "1430 Cutting Blvd, Richmond, CA 94804, United States"
+      },
+      "webiste": ""
+    },
+    {
+      "name": "El Nuevo Siglo",
+      "coordinates": {
+        "latitude": 25.76624774047054, 
+        "longitude": -80.2163481608669
+      },
+      "location": {
+        "address1": "1305 SW 8th St, Miami, FL 33135, United States"
+      },
+      "webiste": "https://www.elnuevosiglousa.com/"
+    }
+]
