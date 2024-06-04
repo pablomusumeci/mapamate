@@ -1,7 +1,7 @@
 .store-address {
-  font-size: 21px;
+  font-size: 20px;
   color: #514c4c;
-  margin-top: 30px;
+  margin-top: 5px;
 }
 
 .store-container {
@@ -27,6 +27,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .store-address span {

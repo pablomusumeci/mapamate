@@ -8,7 +8,7 @@
       "location": {
         "address1": "Westerstraat 116h, 1015 MN Amsterdam, Netherlands"
       },
-      "webiste": "http://www.lareinita.nl/"
+      "site": "http://www.lareinita.nl/"
     },
     {
       "name": "Almacén José",
@@ -19,7 +19,7 @@
       "location": {
         "address1": "Krefelder Str. 85, 50670 Köln, Germany"
       },
-      "webiste": "https://www.almacenjose.com/"
+      "site": "https://www.almacenjose.com/"
     },
     {
       "name": "La Bodega",
@@ -30,7 +30,7 @@
       "location": {
         "address1": "Senefelderstraße 27, 10437 Berlin, Germany"
       },
-      "webiste": "http://www.labodega-berlin.com/"
+      "site": "http://www.labodega-berlin.com/"
     },
     {
       "name": "Vivi Market",
@@ -41,7 +41,7 @@
       "location": {
         "address1": "Q7F2+PQ Florence, Metropolitan City of Florence, Italy"
       },
-      "webiste": "https://www.vivi-market.it/"
+      "site": "https://www.vivi-market.it/"
     },
     {
       "name": "La Grande Epicerie",
@@ -52,7 +52,7 @@
       "location": {
         "address1": "38 Rue de Sèvres, 75007 Paris, France"
       },
-      "webiste": "https://www.lagrandeepicerie.com/"
+      "site": "https://www.lagrandeepicerie.com/"
     },
     {
       "name": "Café El Sur",
@@ -63,7 +63,7 @@
       "location": {
         "address1": "35 Bd Saint-Germain, 75005 Paris, France"
       },
-      "webiste": "http://www.cafe-elsur.com/"
+      "site": "http://www.cafe-elsur.com/"
     },
     {
       "name": "Bubbolitas",
@@ -74,7 +74,7 @@
       "location": {
         "address1": "17 R. Quincampoix, 75004 Paris, France"
       },
-      "webiste": "http://bubbolitas.fr/"
+      "site": "http://bubbolitas.fr/"
     },
     {
       "name": "La Petite Argentine",
@@ -85,7 +85,7 @@
       "location": {
         "address1": "3 Rue Yves Dumanoir, 95150 Taverny, France"
       },
-      "webiste": "http://lapetiteargentine.com/"
+      "site": "http://lapetiteargentine.com/"
     },  
     {
       "name": "Melly's Cookies Bar",
@@ -96,7 +96,7 @@
       "location": {
         "address1": "Nieuwezijds Voorburgwal 137, 1012 RJ Amsterdam, Netherlands"
       },
-      "webiste": "http://www.mellyscookiebar.nl/"
+      "site": "http://www.mellyscookiebar.nl/"
     },  
     {
       "name": "Baires Empanadas & Pastelería",
@@ -107,7 +107,7 @@
       "location": {
         "address1": "Bilderdijkkade 25, 1053 VB Amsterdam, Netherlands"
       },
-      "webiste": "https://www.bairesempanadas.com/"
+      "site": "https://www.bairesempanadas.com/"
     },  
     {
       "name": "Casa Mexico",
@@ -118,7 +118,7 @@
       "location": {
         "address1": "Siebensterngasse 16A, 1070 Wien, Austria"
       },
-      "webiste": "https://www.casamexico.at/"
+      "site": "https://www.casamexico.at/"
     },
     {
       "name": "South American Shop",
@@ -129,7 +129,7 @@
       "location": {
         "address1": "2-3, Merchant's Arch, Temple Bar, Dublin 2, D02 TD39, Ireland"
       },
-      "webiste": "http://www.southamericanshop.com/"
+      "site": "http://www.southamericanshop.com/"
     },
     {
       "name": "Dobre Ziele",
@@ -140,7 +140,7 @@
       "location": {
         "address1": "Kremerowska 9, 31-130 Kraków, Poland"
       },
-      "webiste": "https://dobreziele.pl/"
+      "site": "https://dobreziele.pl/"
     },
     {
       "name": "Szép Kis",
@@ -151,7 +151,7 @@
       "location": {
         "address1": "Budapest, Wesselényi utca 36, 1072 Hungary"
       },
-      "webiste": "https://www.exoticindias.com/"
+      "site": "https://www.exoticindias.com/"
     },
     {
       "name": "Natural Market",
@@ -162,7 +162,7 @@
       "location": {
         "address1": "Kassomouli 21, Athina 117 44, Greece"
       },
-      "webiste": "http://www.arabicmarket.gr/"
+      "site": "http://www.arabicmarket.gr/"
     },
     {
       "name": "Chaparral Supermarket",
@@ -173,7 +173,7 @@
       "location": {
         "address1": "1001 E Santa Clara St, San Jose, CA 95116, United States"
       },
-      "webiste": "http://www.chaparralsupermarket.com/"
+      "site": "http://www.chaparralsupermarket.com/"
     },
     {
       "name": "Mi Tierra Foods",
@@ -184,7 +184,7 @@
       "location": {
         "address1": "2082 San Pablo Ave, Berkeley, CA 94702, United States"
       },
-      "webiste": "https://mitierra-foods.com/"
+      "site": "https://mitierra-foods.com/"
     },
     {
       "name": "Fiesta Latina",
@@ -195,7 +195,7 @@
       "location": {
         "address1": "1430 Cutting Blvd, Richmond, CA 94804, United States"
       },
-      "webiste": ""
+      "site": ""
     },
     {
       "name": "El Nuevo Siglo",
@@ -206,6 +206,6 @@
       "location": {
         "address1": "1305 SW 8th St, Miami, FL 33135, United States"
       },
-      "webiste": "https://www.elnuevosiglousa.com/"
+      "site": "https://www.elnuevosiglousa.com/"
     }
 ]

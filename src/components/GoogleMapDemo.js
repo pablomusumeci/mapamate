@@ -212,10 +212,11 @@ export class MapContainer extends React.Component {
   };
 
   onMarkerClick = (props, marker, e) => {
+    console.log(props)
     this.setState({
       selectedPlace: props,
       activeMarker: marker,
-      showingInfoWindow: false,
+      showingInfoWindow: true,
     });
   };
 
@@ -248,10 +249,7 @@ export class MapContainer extends React.Component {
 
     if (prevProps.selectedMarkerIndex !== this.props.selectedMarkerIndex) {
       if (markerObjects.length > 0 && this.props.selectedMarkerIndex) {
-        let markers = markerObjects.slice(
-          markerObjects.length - 20,
-          markerObjects.length
-        );
+        let markers = markerObjects;
 
         new this.props.google.maps.event.trigger(
           markers[this.props.selectedMarkerIndex - 1].marker,
@@ -281,6 +279,7 @@ export class MapContainer extends React.Component {
           // }}
           key={store.id}
           name={store.name}
+          site={store.site}
           address={store.location.address1}
           index={index + 1}
           rating={store.rating}
@@ -340,13 +339,11 @@ export class MapContainer extends React.Component {
             </div>
             <div className="store-info-phone">
               <div className="icon">
-                <i className="fas fa-phone-alt"></i>
+                <i className="fas fa-link"></i>
               </div>
-              <span>
-                <a href="tel:{this.state.selectedPlace.phone}">
-                  {this.state.selectedPlace.phone}
-                </a>
-              </span>
+              <div className="roboto-light store-phone-number">
+            <a href={this.state.selectedPlace.site}>{this.state.selectedPlace.site}</a>
+          </div>
             </div>
           </div>
         </InfoWindow>

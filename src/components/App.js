@@ -11,20 +11,14 @@ require('dotenv').config()
 class App extends React.Component {
   state = { storeList: stores, selectedMarkerIndex: null };
 
-  onFormSubmit = (location = "Amsterdam") => {
-
-  };
-
   onStoreClick = (index) => {
-    console.log(index);
     this.setState(() => ({ selectedMarkerIndex: index }));
   };
 
   render() {
     return (
       <div>
-        <div className="title roboto-thin">Matemapa 🧉</div>
-        {/* <SearchBar onFormSubmit={this.onFormSubmit} /> */}
+        <div className="title roboto-thin">Mapamate 🧉</div>
         <GoogleMapDemo
           storeList={this.state.storeList}
           selectedMarkerIndex={this.state.selectedMarkerIndex}

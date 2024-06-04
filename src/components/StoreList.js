@@ -8,24 +8,16 @@ const StoreList = ({ storeList, onStoreClick }) => {
       <Store
         store={store}
         index={index}
-        key={store.id}
+        key={store.name}
         onStoreClick={onStoreClick}
       />
     );
   });
 
-  const renderedContent =
-    stores.length > 0 ? (
-      stores
-    ) : (
-      <div className="intro">
-        <span className="enter-zip">Enter location</span>
-        <span className="find-stores">Find yerba mate near you</span>
-      </div>
-    );
+
   return (
     <div className="stores-list-container">
-      <div className="stores-list">{renderedContent}</div>
+      <div className="stores-list">{stores}</div>
     </div>
   );
 };
