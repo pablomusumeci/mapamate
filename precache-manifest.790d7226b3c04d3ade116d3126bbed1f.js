@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29378182736cae80be636bef922d774c",
+    "revision": "45c090e2fc497a1ffef44dec54065fe2",
     "url": "/mapamate/index.html"
   },
   {
-    "revision": "401d0edcb810132e7bed",
-    "url": "/mapamate/static/css/main.77cb6375.chunk.css"
+    "revision": "116472eca21849a26865",
+    "url": "/mapamate/static/css/main.5f46bbfb.chunk.css"
   },
   {
     "revision": "3983614cfc5c1915638d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mapamate/static/js/2.ebd31059.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "401d0edcb810132e7bed",
-    "url": "/mapamate/static/js/main.b6929f8a.chunk.js"
+    "revision": "116472eca21849a26865",
+    "url": "/mapamate/static/js/main.30843dd6.chunk.js"
   },
   {
     "revision": "ade249525a4562c90fea",
