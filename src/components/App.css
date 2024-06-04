@@ -8,6 +8,16 @@
   text-transform: uppercase;
 }
 
+.subtitle {
+  font-size: 20px;
+  position: absolute;
+  top: 200px;
+  z-index: 10;
+  left: 100px;
+  color: #333333;
+  text-transform: uppercase;
+}
+
 .roboto-thin {
   font-family: "Roboto", sans-serif;
   font-weight: 100;

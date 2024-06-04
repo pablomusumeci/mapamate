@@ -18,6 +18,7 @@ class App extends React.Component {
     return (
       <div>
         <div className="title roboto-thin">Mapamate 🧉</div>
+        <div className="subtitle roboto-thin">Missing store? Add it <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1bOF7Mb7Myfc83hDD2zRVAFnWzedSXzddFlqGxjDfApQ/edit?usp=sharing">here</a>! </div>
         <GoogleMapDemo
           storeList={this.state.storeList}
           selectedMarkerIndex={this.state.selectedMarkerIndex}
