@@ -1,7 +1,6 @@
 import React from "react";
 import GoogleMapDemo from "./GoogleMapDemo";
 import "./App.css";
-import SearchBar from "./SearchBar";
 import StoreList from "./StoreList";
 import stores from "../stores.json";
 
